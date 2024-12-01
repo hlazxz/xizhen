@@ -14,7 +14,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>测试修改页面</template>
 
-    修改此处测试内容
+    修改此处测试内容+1
   </WelcomeItem>
 
   <WelcomeItem>
